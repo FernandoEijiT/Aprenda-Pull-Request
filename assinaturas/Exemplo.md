@@ -6,4 +6,4 @@ Localidade: Mogi das Cruzes - SP
 
 Aprendendo: Git
 
-Sobre: SALVE O TRICOLOR PAULISTA  SE FUDER Corinthians!
+Sobre: SALVE O TRICOLOR PAULISTA!!  SE FUDER Corinthians!
