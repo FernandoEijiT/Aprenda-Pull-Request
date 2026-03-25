@@ -1,9 +1,9 @@
-Nome: Fulano da Silva
+Nome: Fernando Eiji Tanaka
 
-Comida favorita: Pipoca
+Comida favorita: Churrasco
 
-Localidade: São Paulo -SP
+Localidade: Mogi das Cruzes - SP
 
 Aprendendo: Git
 
-Sobre: Vai Corinthians!
+Sobre: SALVE O TRICOLOR PAULISTA  SE FUDER Corinthians!
